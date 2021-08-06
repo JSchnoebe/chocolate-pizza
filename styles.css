@@ -1,0 +1,65 @@
+h1 {
+    font-family: 'yellow tail', cursive;
+    display: inline;
+}
+
+nav {
+    display: inline;
+   
+}
+
+div {
+    display: inline;
+    float: right;
+}
+
+#rssicon {
+    margin-left: 10px;
+}
+
+hr {
+    height: 10px;
+    color: black;
+}
+
+header {
+    border-bottom: dimgray;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 10px;
+}
+
+#chocolateP {
+    font-family: 'Oswald', sans-serif;
+}
+
+.date {
+    font-size: 10px;
+}
+
+.print {
+    display: inline;
+}
+
+.printText {
+    font-size: 10px;
+}
+
+#choPiz {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
+
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#list {
+    width: 100%
+}
