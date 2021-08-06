@@ -18,7 +18,7 @@ div {
 }
 
 hr {
-    height: 10px;
+    border: 50px
     color: black;
 }
 
@@ -62,4 +62,37 @@ body {
 
 #list {
     width: 100%
+}
+
+.indentOne {
+    text-indent: 30px;
+}
+
+.indentTwo {
+    text-indent: 30px;
+}
+.indentThree {
+    text-indent: 30px;
+}
+.container {
+    position: relative;
+    width: 100%;
+}
+ul {
+    position: absolute;
+    top:30%;
+    left:45%;
+    transform: translate(-50%, -50%);
+    column-count: 2;
+    column-gap: 100px;
+    list-style-type:none;
+    width: max-content;
+    font-family: 'Patrick Hand' cursive;
+        
+}
+
+
+.footerStuff {
+    display: inline-block;
+    float:left
 }
