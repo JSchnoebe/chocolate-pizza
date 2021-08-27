@@ -17,7 +17,8 @@ div {
 }
 
 hr {
-	border: 50px color: black;
+	border: 50px 
+	color: black;
 }
 
 header {
@@ -53,8 +54,8 @@ header {
 }
 
 body {
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 175px;
+	margin-right: 175px;
 }
 
 #list {
@@ -84,10 +85,13 @@ ul {
 	left: 45%;
 	transform: translate(-50%, -50%);
 	column-count: 2;
-	column-gap: 100px;
+	column-gap: 40px;
 	list-style-type: none;
 	width: max-content;
 	font-family: 'Patrick Hand' cursive;
+}
+button{
+	float:right
 }
 footer{
      float:left
