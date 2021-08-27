@@ -17,7 +17,7 @@ div {
 }
 
 hr {
-	border: 50px 
+	border: 50px;
 	color: black;
 }
 
@@ -65,6 +65,7 @@ body {
 .indentOne {
 	text-indent: 30px;
 }
+
 
 .indentTwo {
 	text-indent: 30px;
