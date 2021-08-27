@@ -1,98 +1,94 @@
 h1 {
-    font-family: 'yellow tail', cursive;
-    display: inline;
+	font-family: 'yellow tail', cursive;
+	display: inline;
 }
 
 nav {
-    display: inline;
-   
+	display: inline;
 }
 
 div {
-    display: inline;
-    float: right;
+	display: inline;
+	float: right;
 }
 
 #rssicon {
-    margin-left: 10px;
+	margin-left: 10px;
 }
 
 hr {
-    border: 50px
-    color: black;
+	border: 50px color: black;
 }
 
 header {
-    border-bottom: dimgray;
-    border-style: solid;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-width: 10px;
+	border-bottom: dimgray;
+	border-style: solid;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-width: 10px;
 }
 
 #chocolateP {
-    font-family: 'Oswald', sans-serif;
+	font-family: 'Oswald', sans-serif;
 }
 
 .date {
-    font-size: 10px;
+	font-size: 10px;
 }
 
 .print {
-    display: inline;
+	display: inline;
 }
 
 .printText {
-    font-size: 10px;
+	font-size: 10px;
 }
 
 #choPiz {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
 }
 
 body {
-    margin-left: 300px;
-    margin-right: 300px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 #list {
-    width: 100%
+	width: 100%
 }
 
 .indentOne {
-    text-indent: 30px;
+	text-indent: 30px;
 }
 
 .indentTwo {
-    text-indent: 30px;
+	text-indent: 30px;
 }
+
 .indentThree {
-    text-indent: 30px;
+	text-indent: 30px;
 }
+
 .container {
-    position: relative;
-    width: 100%;
+	position: relative;
+	width: 100%;
 }
+
 ul {
-    position: absolute;
-    top:30%;
-    left:45%;
-    transform: translate(-50%, -50%);
-    column-count: 2;
-    column-gap: 100px;
-    list-style-type:none;
-    width: max-content;
-    font-family: 'Patrick Hand' cursive;
-        
+	position: absolute;
+	top: 30%;
+	left: 45%;
+	transform: translate(-50%, -50%);
+	column-count: 2;
+	column-gap: 100px;
+	list-style-type: none;
+	width: max-content;
+	font-family: 'Patrick Hand' cursive;
 }
-
-
-.footerStuff {
-    display: inline-block;
-    float:left
+footer{
+     float:left
 }
